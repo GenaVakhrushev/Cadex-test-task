@@ -24,6 +24,7 @@
     <ProjectGuid>{a7158861-4492-4458-9d4f-07af419b72c6}</ProjectGuid>
     <RootNamespace>Cadextesttask</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Curves</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
